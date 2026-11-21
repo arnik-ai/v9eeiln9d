@@ -1,7 +1,7 @@
-:HL["/v9eeiln9d/_next/static/chunks/0dvxc-iqvr9e-.css","style"]
+:HL["/v9eeiln9d/_next/static/chunks/11dortdxb-e8j.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":"view","h":96,"c":"$Q4"}]]
 2:[["children",{"s":"customers","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(panel)","h":96,"c":"$Q2"}]]
-0:{"b":"qzGtHQEQvM5eYIrwRYqSu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"QJRP1Rt04DJgayMds_rAE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
